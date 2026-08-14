@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Zainab 👋
 
-<!--
-**CodebyZainub/CodebyZainub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer focused on building responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+• Currently working on:
+  - Zakat Calculator — JavaScript + API
+  - Courier Management System — PHP + MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Technologies I use:
+  - HTML
+  - CSS
+  - JavaScript
+  - Bootstrap
+  - PHP
+  - MySQL
+  - REST APIs
+  - Git & GitHub
+
+• Currently learning:
+  - Advanced JavaScript
+  - API Integration
+  - Better Web Development practices
+
+• Find me on:
+  - LinkedIn: [Zainab Zeeshan](https://www.linkedin.com/in/zainab-zeeshan-3752ab39b/)
+  - GitHub:[ CodebyZainub](https://github.com/CodebyZainub)
+
+Thanks for visiting my profile! 🚀
