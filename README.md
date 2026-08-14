@@ -5,6 +5,8 @@ Web Developer focused on building responsive and user-friendly web applications.
 • Currently working on:
   - Zakat Calculator — JavaScript + API
   - Courier Management System — PHP + MySQL
+- Resturant Website — PHP + MySQL+ API
+
 
 • Technologies I use:
   - HTML
